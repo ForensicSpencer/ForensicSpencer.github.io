@@ -14,7 +14,7 @@ I am a third-year student in digital forensics. My main focus areas are digital 
 #### 1. [Application Analysis of AtB]
 * **Topic:** [Public Transport Application, Life Cycle Analysis]
 * **Description:** Using an emulator and FTK Imager, the AtB application was examined for life cycle artefacts and artefact of forensic significance after user interaction.
-* **📄 View Report:** [Click to read PDF] projects/Application_Analysis_AtB.pdf
+* **📄 View Report:** [projects/Application_Analysis_AtB.pdf](https://github.com/ForensicSpencer/ForensicSpencer.github.io/blob/main/projects/Application_Analysis_AtB.pdf)
 
 ---
 
