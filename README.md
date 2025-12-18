@@ -6,14 +6,14 @@
 ---
 
 ### 👨‍💻 About Me
-Brief professional summary. Mention your focus areas (e.g., Digital Forensics, Incident Response). Keep it concise—think "elevator pitch."
+I am a third-year student in digital forensics. My main focus areas are digital forensics, incident response and ransomware analysis from a forensic perspective. 
 
 ---
 
 ### 📂 Case Studies & Reports
 #### 1. [Application Analysis of AtB]
 * **Topic:** [Public Transport Application, Life Cycle Analysis]
-* **Description:** A brief summary (2 sentences) of what the task was and what tools you used (e.g., Wireshark, Nmap).
+* **Description:** Using an emulator and FTK Imager, the AtB application was examined for life cycle artefacts and artefact of forensic significance after user interaction.
 * **📄 View Report:** [Click to read PDF] projects/Application_Analysis_AtB.pdf
 
 ---
